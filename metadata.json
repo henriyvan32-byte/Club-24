@@ -1,0 +1,6 @@
+{
+  "name": "CLUB 24 FUTSAL EBOLOWA",
+  "description": "Application officielle du CLUB 24 FUTSAL EBOLOWA. Suivez l'actualité, les matchs, l'effectif des joueurs, et restez connecté avec l'équipe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
